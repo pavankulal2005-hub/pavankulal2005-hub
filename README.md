@@ -14,8 +14,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=pavankulal2005-hub&theme=gruvbox_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankulal2005-hub&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pavankulal2005-hub&theme=merko&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
